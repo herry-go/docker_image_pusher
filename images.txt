@@ -1,5 +1,5 @@
 haproxy
 #支持私库
-haproxy:latest
+haproxy:2.2.16
 #支持指定架构
 --platform=linux/amd64
