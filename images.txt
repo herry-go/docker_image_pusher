@@ -1,4 +1,4 @@
-mi-gpt
+idootop/mi-gpt
 #支持私库
 idootop/mi-gpt:latest
 #支持指定架构
