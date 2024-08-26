@@ -1,5 +1,5 @@
-haproxy
+mi-gpt
 #支持私库
-haproxy:2.2.16
+idootop/mi-gpt:latest
 #支持指定架构
 --platform=linux/amd64
