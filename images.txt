@@ -1,5 +1,5 @@
-idootop/mi-gpt
+nginx
 #支持私库
-idootop/mi-gpt:latest
+nginx:alpine
 #支持指定架构
 --platform=linux/amd64
