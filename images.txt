@@ -1,5 +1,5 @@
-multiarch/qemu-user-static
+rancher/rancher
 #支持私库
-multiarch/qemu-user-static
+rancher/rancher:v2.6.3
 #支持指定架构
 --platform=linux/amd64
