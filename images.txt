@@ -1,5 +1,5 @@
-rancher/shell:v0.2.1
+rancher/rancher-webhook:v0.5.1
 #支持私库
-rancher/shell:v0.2.1
+rancher/rancher-webhook:v0.5.1
 #支持指定架构
 --platform=linux/amd64
