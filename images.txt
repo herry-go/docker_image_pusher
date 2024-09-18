@@ -1,5 +1,5 @@
-rancher/rancher
+rancher/rancher-agent
 #支持私库
-rancher/rancher:v2.6.3
+rancher/rancher-agent:v2.9.1
 #支持指定架构
 --platform=linux/amd64
