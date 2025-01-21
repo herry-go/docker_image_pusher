@@ -1,5 +1,5 @@
-consul:latest
+consul
 #支持私库
-consul:latest
+consul
 #支持指定架构
 --platform=linux/amd64
