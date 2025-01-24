@@ -1,6 +1,6 @@
-library/mysql:5.8
+docker.io/mysql:5.8
 #支持私库
-library/mysql:5.8
+docker.io/mysql:5.8
 #支持指定架构
 --platform=linux/amd64
 
