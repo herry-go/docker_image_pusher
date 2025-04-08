@@ -1,6 +1,6 @@
-pgadmin4
+dpage/pgadmin4
 #支持私库
-pgadmin4
+dpage/pgadmin4
 #支持指定架构 
 --platform=linux/amd64
 
