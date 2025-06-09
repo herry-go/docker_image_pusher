@@ -1,6 +1,6 @@
-kerberos/kerberos
+gdassori/kerberos
 #支持私库
-kerberos/kerberos
+gdassori/kerberos
 #支持指定架构 
 --platform=linux/amd64
 
