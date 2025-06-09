@@ -1,6 +1,6 @@
-dpage/pgadmin4
+keberos/kdc
 #支持私库
-dpage/pgadmin4
+keberos/kdc
 #支持指定架构 
 --platform=linux/amd64
 
