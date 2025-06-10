@@ -1,6 +1,6 @@
-confluentinc/cp-kafka:5.0.1
+confluentinc/cp-zookeeper:5.0.1
 #支持私库
-confluentinc/cp-kafka:5.0.1
+confluentinc/cp-zookeeper:5.0.1
 #支持指定架构 
 --platform=linux/amd64
 
