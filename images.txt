@@ -1,6 +1,6 @@
-gdassori/kerberos
+confluentinc/cp-kafka:5.0.1
 #支持私库
-gdassori/kerberos
+confluentinc/cp-kafka:5.0.1
 #支持指定架构 
 --platform=linux/amd64
 
