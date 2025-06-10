@@ -1,6 +1,6 @@
-confluentinc/cp-zookeeper:5.0.1
+alpine:latest
 #支持私库
-confluentinc/cp-zookeeper:5.0.1
+alpine:latest
 #支持指定架构 
 --platform=linux/amd64
 
