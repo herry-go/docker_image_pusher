@@ -1,6 +1,6 @@
-golang:1.24-alpine
+redis:latest
 #支持私库
-golang:1.24-alpine
+redis:latest
 #支持指定架构 
 --platform=linux/amd64
 
