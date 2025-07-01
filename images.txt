@@ -1,6 +1,6 @@
-elasticsearch:8.11.3
+mysql:8.0
 #支持私库
-elasticsearch:8.11.3
+mysql:8.0
 #支持指定架构 
 --platform=linux/amd64
 
