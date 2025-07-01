@@ -1,6 +1,6 @@
-redis:latest
+elasticsearch:8.11.3
 #支持私库
-redis:latest
+elasticsearch:8.11.3
 #支持指定架构 
 --platform=linux/amd64
 
