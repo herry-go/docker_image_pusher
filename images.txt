@@ -1,5 +1,5 @@
-openelb/openelb:v0.5.1
+openelb/openelb
 #支持私库
-openelb/openelb:v0.5.1
+openelb/openelb
 #支持指定架构 
 --platform=linux/amd64
