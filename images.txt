@@ -1,6 +1,6 @@
-mysql:8.0
+openelb/openelb:v0.5.1
 #支持私库
-mysql:8.0
+openelb/openelb:v0.5.1
 #支持指定架构 
 --platform=linux/amd64
 
