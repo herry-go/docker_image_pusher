@@ -3,4 +3,3 @@ openelb/openelb:v0.5.1
 openelb/openelb:v0.5.1
 #支持指定架构 
 --platform=linux/amd64
-
