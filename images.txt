@@ -1,5 +1,5 @@
-openelb/openelb
+rabbitmq:3.9-management
 #支持私库
-openelb/openelb
+rabbitmq:3.9-management
 #支持指定架构 
 --platform=linux/amd64
