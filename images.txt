@@ -1,5 +1,5 @@
-provectuslabs/kafka-ui:latest
+rabbitmq:management
 #支持私库
-provectuslabs/kafka-ui:latest
+rabbitmq:management
 #支持指定架构 
 --platform=linux/amd64
