@@ -1,5 +1,5 @@
-elasticsearch:5.6.2
+tomcat:8.5.23-jre8
 #支持私库
-elasticsearch:5.6.2
+tomcat:8.5.23-jre8
 #支持指定架构
 --platform=linux/amd64
