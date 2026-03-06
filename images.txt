@@ -1,5 +1,5 @@
-justlikemaki/openclaw-docker-cn-im:latest
+openclaw:latest
 #支持私库
-justlikemaki/openclaw-docker-cn-im:latest
+openclaw:latest
 #支持指定架构
 --platform=linux/amd64
