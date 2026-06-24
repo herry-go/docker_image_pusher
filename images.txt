@@ -1,5 +1,5 @@
-qdrant/qdrant:latest
+itsthenetwork/nfs-server-alpine:latest
 #支持私库
-qdrant/qdrant:latest
+itsthenetwork/nfs-server-alpine:latest
 #支持指定架构
 --platform=linux/amd64
