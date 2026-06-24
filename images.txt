@@ -1,2 +1,3 @@
---platform=linux/arm64 itsthenetwork/nfs-server-alpine:latest
+itsthenetwork/nfs-server-alpine:latest
+--platform=linux/amd64
 
