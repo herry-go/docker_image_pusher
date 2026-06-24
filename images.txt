@@ -1,5 +1,2 @@
-itsthenetwork/nfs-server-alpine:latest
-#支持私库
-itsthenetwork/nfs-server-alpine:latest
-#支持指定架构
---platform=linux/arm64
+--platform=linux/arm64 itsthenetwork/nfs-server-alpine:latest
+
