@@ -1,3 +1,2 @@
-nfs-subdir-external-provisioner:v4.0.2
---platform=linux/amd64
+--platform=linux/amd64 nfs-subdir-external-provisioner:v4.0.2
 
